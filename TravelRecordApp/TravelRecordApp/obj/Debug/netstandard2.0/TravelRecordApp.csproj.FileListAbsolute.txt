@@ -1,0 +1,43 @@
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.deps.json
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\ref\TravelRecordApp.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\PostDetailPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfoInputs.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfo.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ref\TravelRecordApp.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.deps.json
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\ref\TravelRecordApp.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\PostDetailPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfoInputs.cache
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfo.cs
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ref\TravelRecordApp.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.GeneratedMSBuildEditorConfig.editorconfig

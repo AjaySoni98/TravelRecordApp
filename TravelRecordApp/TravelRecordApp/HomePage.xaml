@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:TravelRecordApp"
+             x:Class="TravelRecordApp.HomePage"
+            NavigationPage.HasBackButton="False">
+
+    <NavigationPage.TitleView>
+        <Label Text="Explore" FontSize="Medium" FontFamily="MonsR"/>
+    </NavigationPage.TitleView>
+
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     IconImageSource="add.png"
+                     Command="{Binding NavCommand}"/>
+    </TabbedPage.ToolbarItems>
+    
+    <local:HistoryPage IconImageSource="home.png" />
+    <local:MapPage IconImageSource="map.png"/>
+    <local:ProfilePage IconImageSource="user.png"/>
+</TabbedPage>

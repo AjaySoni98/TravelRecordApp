@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelRecordApp.HistoryPage">
+
+    <ListView x:Name="postListView"
+              ItemSelected="postListView_ItemSelected"
+              Margin="20"
+              HasUnevenRows="True"
+              SeparatorVisibility="None">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Frame Margin="7"
+                        CornerRadius="5"
+                        BorderColor="LightGray"
+                        HasShadow="True"
+                        Padding="0">
+                        <StackLayout Padding="10">
+                            <Image Source="quote.png"
+                                HorizontalOptions="StartAndExpand"
+                                HeightRequest="15"
+                                Margin="0"/>
+                            <Label Text="{Binding Experience}"
+                                TextColor="Black"
+                                FontSize="Medium"
+                                HorizontalOptions="StartAndExpand"
+                                Margin="30,0,0,0"
+                                Padding="0"/>
+                            <Label Text="{Binding VenueName}"
+                                TextColor="DarkGray"
+                                FontSize="Micro"
+                                HorizontalOptions="EndAndExpand"
+                                Margin="30,0,0,0"
+                                Padding="0"/>
+                        </StackLayout>
+                    </Frame>
+                </ViewCell>
+                
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    
+</ContentPage>

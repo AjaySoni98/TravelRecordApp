@@ -1,0 +1,147 @@
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.iOS.exe
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.iOS.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.iOS.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\optimized\
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csprojAssemblyReference.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CopyComplete
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.exe
+D:\Coding\Visual Studio\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.iOS.exe
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.iOS.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\PCLCrypto.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\PInvoke.BCrypt.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\PInvoke.Kernel32.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\PInvoke.NCrypt.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\PInvoke.Windows.Core.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Validation.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Plugin.Geolocator.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csprojAssemblyReference.cache
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CopyComplete
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.exe
+C:\Users\1797767\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.pdb
